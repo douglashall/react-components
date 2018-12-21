@@ -1,5 +1,5 @@
-import AppHeader from './containers/AppHeader';
+import SiteFooter from './containers/SiteFooter';
 
 export {
-  AppHeader,
+  SiteFooter,
 };
